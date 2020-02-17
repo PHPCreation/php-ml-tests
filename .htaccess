@@ -1,10 +1,6 @@
 #Base file is /index.php
 DirectoryIndex index.php
 
-# letsencrypt chalenge
-Alias "/.well-known" "/letsencrypt/data/.well-known"
-
-
 #Deny all files execept allow type under this instruction
 <FilesMatch "\.*$">
     Deny from all
