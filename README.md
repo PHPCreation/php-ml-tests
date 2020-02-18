@@ -1,6 +1,29 @@
 # php-ml-tests
 php-ml-tests
 
+## Installation 
+
+Use docker compose setup
+```
+ln -s docker-compose.local.yml docker-compose.yml
+```
+
+Load local environment
+```
+docker-compose up
+```
+
+Check PHP version
+```
+./exec php -v
+```
+
+Install local project libraries using composer
+```
+./exec ./composer.phar install
+```
+
+
 ## Goal 
 
 Test PHP-ML
@@ -19,6 +42,8 @@ URL : https://github.com/php-ai
 
 From : https://www.udemy.com/course/ai-machine-learning-complete-course/
 
+
+Compare SVC vs Neural Network
 
 ## To try / Test
 
