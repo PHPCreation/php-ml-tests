@@ -58,3 +58,8 @@ Ref : https://github.com/php-ai/php-ml
 Ref : https://blog.paralleldots.com/data-science/machine-learning/ten-machine-learning-algorithms-know-become-data-scientist/
 
 Ref : https://www.sas.com/en_gb/insights/articles/analytics/machine-learning-algorithms.html
+
+
+### Example
+
+Ref : https://www.sitepoint.com/how-to-analyze-tweet-sentiments-with-php-machine-learning/
